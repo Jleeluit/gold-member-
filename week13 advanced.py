@@ -30,3 +30,7 @@ def get_file_info(path=None):
 files = get_file_info()
 print(files, '\n')
 
+file_list = get_file_info()
+
+for file_dict in file_list:
+    print(file_dict)
