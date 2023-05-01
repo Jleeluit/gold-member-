@@ -1,3 +1,5 @@
+#Pretty cool the versitaility of Python Script, following is an example of it.
+
 #!/bin/python3
 
 name = ""
